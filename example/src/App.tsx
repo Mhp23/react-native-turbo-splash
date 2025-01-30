@@ -1,5 +1,5 @@
-import { Text, View, StyleSheet } from 'react-native';
-import { multiply } from 'react-native-turbo-splash';
+import {Text, View, StyleSheet} from 'react-native';
+import {multiply} from 'react-native-turbo-splash';
 
 const result = multiply(3, 7);
 
