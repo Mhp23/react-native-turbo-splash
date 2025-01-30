@@ -4,21 +4,7 @@ A high-performance splash screen package for React Native on both iOS and Androi
 
 ## Installation
 
-```sh
-npm install react-native-turbo-splash
-```
-
-## Usage
-
-
-```js
-import { multiply } from 'react-native-turbo-splash';
-
-// ...
-
-const result = multiply(3, 7);
-```
-
+Developing...
 
 ## Contributing
 
